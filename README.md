@@ -1,4 +1,9 @@
 # .
+## Autor
+- Nombre: Jose Luis Pinedo Ceballos  
+- Email: a23311074@uthermosillo.edu.mx  
+- GitHub: [@a23311074](https://github.com/a23311074/proyecto-vue)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
